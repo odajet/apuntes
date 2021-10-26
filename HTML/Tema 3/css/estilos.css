@@ -1,0 +1,22 @@
+h1{
+    color: red;
+    font-size: 24pt;
+    text-align: center;
+}
+body{
+    background-color: rosybrown;
+}
+p, h2{
+    color: white;
+}
+.amarillo{
+    color: yellow;
+}
+
+.centrado{
+    text-align: center;
+}
+
+#ultimoparrafo{
+    font-size: 9pt;
+}
