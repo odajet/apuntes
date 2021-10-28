@@ -20,3 +20,15 @@ p, h2{
 #ultimoparrafo{
     font-size: 9pt;
 }
+
+body{
+    font-family: Arial;
+    font size: 12pt;
+    text-align: justify;
+    background-color: :red;   
+}
+
+p{
+    background-color:rgba(70,50,30,0.3);
+    font-size: 3em;
+}
